@@ -1,5 +1,6 @@
 # Car Price Prediction
-Given Project is a Machine Learning regression model to predict car price. For this project data set of used cars was used from kaggle.
+Given Project is a Machine Learning regression model to predict car price. For this project a kaggle dataset of used cars was used.
+
 Data Collection: 
 [Car Price Prediction](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho) from Kaggle
 
