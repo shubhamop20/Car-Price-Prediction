@@ -1,13 +1,8 @@
 # Car Price Prediction
-A project on predicting whether it will rain tomorrow or not by using the Rainfall in Australia dataset
-This project is tested over lot of ml models like catboost, xgboost, random forest, support vector classifier, etc..
-Out of these models catboost performed very well giving an AUC score around and ROC score of 89 far better than others.
-Here due to my system compatibility is very low. So I havent done hyperparameter tuning. But it is highly recommended to do it if possible.
-
+Given Project is a Machine Learning regression model to predict car price. For this project data set of used cars was used from kaggle.
 Data Collection: 
 [Car Price Prediction](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho) from Kaggle
 
-Website Link: ["https://rainy-brain.herokuapp.com/"](https://rainy-brain.herokuapp.com/)
 
 Testing values
 
@@ -33,7 +28,6 @@ Workflow
 3. Model Building and Selection 
 4. Coding Backend, FLASK API and Testing 
 5. Coding Frontend HTML and Testing 
-6. Deployment in AWS EC2 with NGINX, Guinicorn, Supervisor 
 
 
 
